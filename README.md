@@ -3,5 +3,5 @@ in this prototype we add some new feature
 -breakable chest
 -drop item
 -drop weapon
-=drop item health
+-drop item health
 -NPC dialgoue
